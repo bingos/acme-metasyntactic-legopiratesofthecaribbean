@@ -42,7 +42,6 @@ Ragetti
 Bootstrap_Bill_Turner
 James_Norrington
 Norrington
-Elizbaeth
 Captain_Elizabeth
 Captain_Barbossa
 Sao_Feng
